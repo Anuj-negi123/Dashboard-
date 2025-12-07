@@ -17,6 +17,8 @@ This dashboard provides insights into the performance of Chandigarh Transport Un
 ## 📁 Files Included
 - **ctu_dataset.csv** – Dataset used in the dashboard
 - **ctu dashboard power bi.pdf** – Final dashboard export
+- **📊 Power BI PBIX** – Fully interactive version with slicers and filters
+
 
 ## 🛠 Tools Used
 - Power BI
